@@ -1,0 +1,377 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:2:1-55:12
+MERGED from [me.riddhimanadib.bottom-nav-bar:bottom-nav-bar:1.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\bottom-nav-bar-1.0.1.aar\253117133ef9df15ed0f1365c539e805\AndroidManifest.xml:2:1-17:12
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\dexter-5.0.0.aar\75d92e7bf45349b9c18a889248a0a778\AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\b48c68d3969a293e7bd2334e5547e060\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\c7caf340703ff60c0e4abe549c448fd0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ba3f9c47dc556768d4f701fde427aa39\AndroidManifest.xml:2:1-11:12
+MERGED from [com.sothree.slidinguppanel:library:3.4.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\library-3.4.0.aar\49b14d0c652d0176b301a0e9d6ce48b9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\21fda003538acfa2bec4e798537f92c2\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-15.0.1.aar\4c383e2d02638b1b7f5a85f1bc404d56\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-15.0.1.aar\51c8639b9485e2c652e4f13b7e5f2b95\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\7271ee8ac6fd9de5fa0dda4f4c1ab3ab\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\6e000b55c06017953e00b5f0c76bf033\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\b76278c73aeb8809da14630a3049f21f\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\6e04f6596fc37f995ac3e95a44de63ec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\a45e665c3ae34a36493399281d3a0ebc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:gridlayout-v7:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-28.0.0.aar\61dcb9d615c774a252a6665e02744b95\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\931750defc8b460b82028b79e02af1e7\AndroidManifest.xml:2:1-11:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\fc2e93b97ef06e7cc1d9e34c4733b59e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\853445c50d8afd4f5d74b458148510f9\AndroidManifest.xml:17:1-22:12
+MERGED from [me.tankery.lib:circularSeekBar:1.1.5] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\circularSeekBar-1.1.5.aar\23218e0924669e952461dacae76abda7\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\4cb835a99bb41420a079ac61caa891a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\d842a39401fa0a7d6ab39455188bb25e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\e963cd87c020cbfba965cc3799f222a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\015a9c1da2de2be0496fca00653ec977\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f52bcfdb578d96afcd51ab9f5dafad87\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\adf922818e7dc9469d7c6bcf30d64fa1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f1ca5cd9e5ee5764e7fa6bdf7170b34c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\cd0f68f546e9ac2ff629bcc055aad4ba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\9b57ed21df7fe52db53401f41557e390\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\6c9512bbee8fb5ef33f0cc70e84cceb7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\9e39a36bbb585a90fc1a7ba9047c1333\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\009eb6f6c93b609c10741a7987559145\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ebae895acc5d70aa3b1c4b0909f7dcd8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\1551187f6933e64ce22f87508959b69c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\a269689ff2c1c17a2bab64bb70f79df3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1ba312709924229ad17e977e01e26f68\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\26b154dc8e90103f60d71eee8f867aec\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1ce05e6f2d3eb552bc3db90340b5f28f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ca0955ebe6a35c9fd5de17c356c07e4c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\1a6e75e7440814bd70bae94edec7873a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\3c772ed51bf8d49a2eff69ea58677f52\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a58f197bf67511c3645fc551d7037111\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9ca8a44b1d5a6dc085c031f255b0f4c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\f97a683c9c465d735707ff65cc4e8826\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1fcd2395011ca8bec252bae964b462ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\063cc4aef61ce5ae6742af304a976a08\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\c5e78aed0ac39ee7dee007e6fd541c31\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:2:1-55:12
+	package
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:2:1-55:12
+		INJECTED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:2:1-55:12
+		INJECTED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:9:22-62
+application
+ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:11:5-53:19
+MERGED from [me.riddhimanadib.bottom-nav-bar:bottom-nav-bar:1.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\bottom-nav-bar-1.0.1.aar\253117133ef9df15ed0f1365c539e805\AndroidManifest.xml:11:5-15:19
+MERGED from [me.riddhimanadib.bottom-nav-bar:bottom-nav-bar:1.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\bottom-nav-bar-1.0.1.aar\253117133ef9df15ed0f1365c539e805\AndroidManifest.xml:11:5-15:19
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\dexter-5.0.0.aar\75d92e7bf45349b9c18a889248a0a778\AndroidManifest.xml:26:5-30:19
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\dexter-5.0.0.aar\75d92e7bf45349b9c18a889248a0a778\AndroidManifest.xml:26:5-30:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\b48c68d3969a293e7bd2334e5547e060\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\b48c68d3969a293e7bd2334e5547e060\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ba3f9c47dc556768d4f701fde427aa39\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ba3f9c47dc556768d4f701fde427aa39\AndroidManifest.xml:9:5-20
+MERGED from [com.sothree.slidinguppanel:library:3.4.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\library-3.4.0.aar\49b14d0c652d0176b301a0e9d6ce48b9\AndroidManifest.xml:9:5-20
+MERGED from [com.sothree.slidinguppanel:library:3.4.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\library-3.4.0.aar\49b14d0c652d0176b301a0e9d6ce48b9\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\21fda003538acfa2bec4e798537f92c2\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\21fda003538acfa2bec4e798537f92c2\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\7271ee8ac6fd9de5fa0dda4f4c1ab3ab\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\7271ee8ac6fd9de5fa0dda4f4c1ab3ab\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\6e000b55c06017953e00b5f0c76bf033\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\6e000b55c06017953e00b5f0c76bf033\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\b76278c73aeb8809da14630a3049f21f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\b76278c73aeb8809da14630a3049f21f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\931750defc8b460b82028b79e02af1e7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\931750defc8b460b82028b79e02af1e7\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\fc2e93b97ef06e7cc1d9e34c4733b59e\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\fc2e93b97ef06e7cc1d9e34c4733b59e\AndroidManifest.xml:9:5-20
+MERGED from [me.tankery.lib:circularSeekBar:1.1.5] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\circularSeekBar-1.1.5.aar\23218e0924669e952461dacae76abda7\AndroidManifest.xml:12:5-20
+MERGED from [me.tankery.lib:circularSeekBar:1.1.5] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\circularSeekBar-1.1.5.aar\23218e0924669e952461dacae76abda7\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1ba312709924229ad17e977e01e26f68\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1ba312709924229ad17e977e01e26f68\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\26b154dc8e90103f60d71eee8f867aec\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\26b154dc8e90103f60d71eee8f867aec\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1ba312709924229ad17e977e01e26f68\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:18:9-59
+	android:networkSecurityConfig
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:15:9-69
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:19:9-44
+activity#com.youssef.yasmine.musy.Activity.NavigationActivity
+ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:20:9-22:20
+	android:name
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:20:19-62
+activity#com.youssef.yasmine.musy.Activity.ArtistActivity
+ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:23:9-61
+	android:name
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:23:19-58
+activity#com.youssef.yasmine.musy.Activity.MusicPlayerActivity
+ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:24:9-66
+	android:name
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:24:19-63
+meta-data#preloaded_fonts
+ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:26:9-28:57
+	android:resource
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:28:13-54
+	android:name
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:27:13-43
+activity#com.youssef.yasmine.musy.Activity.AllGenreActivity
+ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:30:9-63
+	android:name
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:30:19-60
+activity#com.youssef.yasmine.musy.Activity.MusicByGenreActivity
+ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:31:9-67
+	android:name
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:31:19-64
+activity#com.youssef.yasmine.musy.Activity.AllAlbumsActivity
+ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:32:9-64
+	android:name
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:32:19-61
+activity#com.youssef.yasmine.musy.Activity.ProfilePlaylistActivity
+ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:33:9-70
+	android:name
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:33:19-67
+activity#com.youssef.yasmine.musy.Activity.FavorisActivity
+ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:34:9-62
+	android:name
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:34:19-59
+activity#com.youssef.yasmine.musy.Activity.ProfileVideosActivity
+ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:35:9-68
+	android:name
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:35:19-65
+activity#com.youssef.yasmine.musy.Activity.listFollowersActivity
+ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:36:9-68
+	android:name
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:36:19-65
+activity#com.youssef.yasmine.musy.Activity.ListFollowingActivity
+ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:37:9-68
+	android:name
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:37:19-65
+activity#com.youssef.yasmine.musy.Activity.UsersActivity
+ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:38:9-60
+	android:name
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:38:19-57
+activity#com.youssef.yasmine.musy.Activity.CameraActivity
+ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:39:9-61
+	android:name
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:39:19-58
+activity#com.youssef.yasmine.musy.Activity.VideoPreviewActivity
+ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:40:9-67
+	android:name
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:40:19-64
+activity#com.youssef.yasmine.musy.Activity.PlaylistActivity
+ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:41:9-63
+	android:name
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:41:19-60
+activity#com.youssef.yasmine.musy.Activity.PlaylistTracksActivity
+ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:42:9-69
+	android:name
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:42:19-66
+activity#com.youssef.yasmine.musy.Activity.PlaylistFavorisActivity
+ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:43:9-70
+	android:name
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:43:19-67
+activity#com.youssef.yasmine.musy.Activity.MusicPlaylerPlaylistActivity
+ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:44:9-75
+	android:name
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:44:19-72
+activity#com.youssef.yasmine.musy.Activity.MusicPlayerAbumActivity
+ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:45:9-70
+	android:name
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:45:19-67
+activity#com.youssef.yasmine.musy.Activity.SignInActivity
+ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:46:9-52:20
+	android:name
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:46:19-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:47:13-51:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:50:17-77
+	android:name
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml:50:27-74
+uses-sdk
+INJECTED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml
+MERGED from [me.riddhimanadib.bottom-nav-bar:bottom-nav-bar:1.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\bottom-nav-bar-1.0.1.aar\253117133ef9df15ed0f1365c539e805\AndroidManifest.xml:7:5-9:41
+MERGED from [me.riddhimanadib.bottom-nav-bar:bottom-nav-bar:1.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\bottom-nav-bar-1.0.1.aar\253117133ef9df15ed0f1365c539e805\AndroidManifest.xml:7:5-9:41
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\dexter-5.0.0.aar\75d92e7bf45349b9c18a889248a0a778\AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\dexter-5.0.0.aar\75d92e7bf45349b9c18a889248a0a778\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\b48c68d3969a293e7bd2334e5547e060\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\b48c68d3969a293e7bd2334e5547e060\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\c7caf340703ff60c0e4abe549c448fd0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\c7caf340703ff60c0e4abe549c448fd0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ba3f9c47dc556768d4f701fde427aa39\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ba3f9c47dc556768d4f701fde427aa39\AndroidManifest.xml:5:5-7:41
+MERGED from [com.sothree.slidinguppanel:library:3.4.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\library-3.4.0.aar\49b14d0c652d0176b301a0e9d6ce48b9\AndroidManifest.xml:7:5-44
+MERGED from [com.sothree.slidinguppanel:library:3.4.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\library-3.4.0.aar\49b14d0c652d0176b301a0e9d6ce48b9\AndroidManifest.xml:7:5-44
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\21fda003538acfa2bec4e798537f92c2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\21fda003538acfa2bec4e798537f92c2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-15.0.1.aar\4c383e2d02638b1b7f5a85f1bc404d56\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-15.0.1.aar\4c383e2d02638b1b7f5a85f1bc404d56\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-15.0.1.aar\51c8639b9485e2c652e4f13b7e5f2b95\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-15.0.1.aar\51c8639b9485e2c652e4f13b7e5f2b95\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\7271ee8ac6fd9de5fa0dda4f4c1ab3ab\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\7271ee8ac6fd9de5fa0dda4f4c1ab3ab\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\6e000b55c06017953e00b5f0c76bf033\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\6e000b55c06017953e00b5f0c76bf033\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\b76278c73aeb8809da14630a3049f21f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\b76278c73aeb8809da14630a3049f21f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\6e04f6596fc37f995ac3e95a44de63ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\6e04f6596fc37f995ac3e95a44de63ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\a45e665c3ae34a36493399281d3a0ebc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\a45e665c3ae34a36493399281d3a0ebc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-28.0.0.aar\61dcb9d615c774a252a6665e02744b95\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-28.0.0.aar\61dcb9d615c774a252a6665e02744b95\AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\931750defc8b460b82028b79e02af1e7\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\931750defc8b460b82028b79e02af1e7\AndroidManifest.xml:7:5-43
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\fc2e93b97ef06e7cc1d9e34c4733b59e\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\fc2e93b97ef06e7cc1d9e34c4733b59e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\853445c50d8afd4f5d74b458148510f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\853445c50d8afd4f5d74b458148510f9\AndroidManifest.xml:20:5-44
+MERGED from [me.tankery.lib:circularSeekBar:1.1.5] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\circularSeekBar-1.1.5.aar\23218e0924669e952461dacae76abda7\AndroidManifest.xml:8:5-10:41
+MERGED from [me.tankery.lib:circularSeekBar:1.1.5] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\circularSeekBar-1.1.5.aar\23218e0924669e952461dacae76abda7\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\4cb835a99bb41420a079ac61caa891a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\4cb835a99bb41420a079ac61caa891a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\d842a39401fa0a7d6ab39455188bb25e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\d842a39401fa0a7d6ab39455188bb25e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\e963cd87c020cbfba965cc3799f222a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\e963cd87c020cbfba965cc3799f222a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\015a9c1da2de2be0496fca00653ec977\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\015a9c1da2de2be0496fca00653ec977\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f52bcfdb578d96afcd51ab9f5dafad87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f52bcfdb578d96afcd51ab9f5dafad87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\adf922818e7dc9469d7c6bcf30d64fa1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\adf922818e7dc9469d7c6bcf30d64fa1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f1ca5cd9e5ee5764e7fa6bdf7170b34c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f1ca5cd9e5ee5764e7fa6bdf7170b34c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\cd0f68f546e9ac2ff629bcc055aad4ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\cd0f68f546e9ac2ff629bcc055aad4ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\9b57ed21df7fe52db53401f41557e390\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\9b57ed21df7fe52db53401f41557e390\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\6c9512bbee8fb5ef33f0cc70e84cceb7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\6c9512bbee8fb5ef33f0cc70e84cceb7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\9e39a36bbb585a90fc1a7ba9047c1333\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\9e39a36bbb585a90fc1a7ba9047c1333\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\009eb6f6c93b609c10741a7987559145\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\009eb6f6c93b609c10741a7987559145\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ebae895acc5d70aa3b1c4b0909f7dcd8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ebae895acc5d70aa3b1c4b0909f7dcd8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\1551187f6933e64ce22f87508959b69c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\1551187f6933e64ce22f87508959b69c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\a269689ff2c1c17a2bab64bb70f79df3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\a269689ff2c1c17a2bab64bb70f79df3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1ba312709924229ad17e977e01e26f68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1ba312709924229ad17e977e01e26f68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\26b154dc8e90103f60d71eee8f867aec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\26b154dc8e90103f60d71eee8f867aec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1ce05e6f2d3eb552bc3db90340b5f28f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1ce05e6f2d3eb552bc3db90340b5f28f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ca0955ebe6a35c9fd5de17c356c07e4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ca0955ebe6a35c9fd5de17c356c07e4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\1a6e75e7440814bd70bae94edec7873a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\1a6e75e7440814bd70bae94edec7873a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\3c772ed51bf8d49a2eff69ea58677f52\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\3c772ed51bf8d49a2eff69ea58677f52\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a58f197bf67511c3645fc551d7037111\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a58f197bf67511c3645fc551d7037111\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9ca8a44b1d5a6dc085c031f255b0f4c4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9ca8a44b1d5a6dc085c031f255b0f4c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\f97a683c9c465d735707ff65cc4e8826\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\f97a683c9c465d735707ff65cc4e8826\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1fcd2395011ca8bec252bae964b462ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1fcd2395011ca8bec252bae964b462ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\063cc4aef61ce5ae6742af304a976a08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\063cc4aef61ce5ae6742af304a976a08\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\c5e78aed0ac39ee7dee007e6fd541c31\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\c5e78aed0ac39ee7dee007e6fd541c31\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Yousseuf\Desktop\Musy\app\src\main\AndroidManifest.xml
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:5.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\dexter-5.0.0.aar\75d92e7bf45349b9c18a889248a0a778\AndroidManifest.xml:27:9-29:72
+	android:theme
+		ADDED from [com.karumi:dexter:5.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\dexter-5.0.0.aar\75d92e7bf45349b9c18a889248a0a778\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.karumi:dexter:5.0.0] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\dexter-5.0.0.aar\75d92e7bf45349b9c18a889248a0a778\AndroidManifest.xml:28:13-60
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\21fda003538acfa2bec4e798537f92c2\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\21fda003538acfa2bec4e798537f92c2\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\21fda003538acfa2bec4e798537f92c2\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\21fda003538acfa2bec4e798537f92c2\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\21fda003538acfa2bec4e798537f92c2\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\21fda003538acfa2bec4e798537f92c2\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\21fda003538acfa2bec4e798537f92c2\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\21fda003538acfa2bec4e798537f92c2\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\21fda003538acfa2bec4e798537f92c2\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\7271ee8ac6fd9de5fa0dda4f4c1ab3ab\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\7271ee8ac6fd9de5fa0dda4f4c1ab3ab\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\7271ee8ac6fd9de5fa0dda4f4c1ab3ab\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\7271ee8ac6fd9de5fa0dda4f4c1ab3ab\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\b76278c73aeb8809da14630a3049f21f\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\b76278c73aeb8809da14630a3049f21f\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Yousseuf\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\b76278c73aeb8809da14630a3049f21f\AndroidManifest.xml:24:13-58
