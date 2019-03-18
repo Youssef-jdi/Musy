@@ -1,0 +1,15 @@
+const express = require('express')
+const app = express()
+const routerUser = require('./routes/user.js')
+const routerCommentaire = require('./routes/Commentaire.js')
+const routerVideo = require('./routes/video.js')
+const routerPlayList = require('./routes/playlist.js')
+app.use(express.static('./videos'))
+app.use(routerUser)
+app.use(routerCommentaire)
+app.use(routerVideo)
+app.use(routerPlayList)
+
+app.listen(3003,(req,res)=>{
+    console.log("Listening")
+})
